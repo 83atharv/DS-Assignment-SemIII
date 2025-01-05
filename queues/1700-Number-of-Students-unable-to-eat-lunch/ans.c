@@ -1,5 +1,7 @@
 // https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/
 
+// SOLUTION - 
+ 
 #define MAX_SIZE 1000
 
 typedef struct {

@@ -1,5 +1,7 @@
 // https://leetcode.com/problems/design-hashmap/description/
 
+// SOLUTION - 
+ 
 class MyHashMap {
 public:
     int mp[1000001];    
